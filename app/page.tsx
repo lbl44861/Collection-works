@@ -9,9 +9,9 @@ const aiVideos = [
 ];
 
 const characters = [
-  { src: "/characters/character-01.jpg", label: "角色设定 01" },
-  { src: "/characters/character-02.jpg", label: "角色设定 02" },
-  { src: "/characters/character-03.jpg", label: "角色设定 03" },
+  { src: "/characters/character-01.png", label: "角色设定 01" },
+  { src: "/characters/character-02.png", label: "角色设定 02" },
+  { src: "/characters/character-03.png", label: "角色设定 03" },
   { src: "/characters/character-04.jpg", label: "角色设定 04" },
   { src: "/characters/character-05.jpg", label: "角色设定 05" },
   { src: "/characters/character-06.jpg", label: "角色设定 06" },
